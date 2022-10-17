@@ -8,7 +8,7 @@ In this project i have use following dependency
 [x] springfox-swagger2
 
 #API End Points
-1. ____Save Battery Details- _POST_ : `{url}`/ 
+1. __Save Battery Details- _POST_ : `{url}`/ 
 2. __Get Name Of Batteries__ -  _GET_: `{url}`/[postcoderange}`
 
 ##Platform 
