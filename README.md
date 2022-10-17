@@ -12,7 +12,6 @@ In this project i have use following dependency
 2. __Get Name Of Batteries__ -  _GET_: `{url}`/[postcoderange}`
 
 # Platform 
-```
 Ubuntu
 
 ## Install MongoDB 
