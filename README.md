@@ -11,7 +11,8 @@ In this project i have use following dependency
 1. __Save Battery Details- _POST_ : `{url}`/ 
 2. __Get Name Of Batteries__ -  _GET_: `{url}`/[postcoderange}`
 
-##Platform 
+# Platform 
+```
 Ubuntu
 
 ## Install MongoDB 
