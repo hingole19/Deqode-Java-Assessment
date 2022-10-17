@@ -1,4 +1,4 @@
-package deqode.springpractice.backend2.utility;
+package deqode.assessment.com.utility;
 
 public class BaseResponse {
 

@@ -1,4 +1,4 @@
-package deqode.springpractice.backend2.contants;
+package deqode.assessment.com.constants;
 
 /**
  * @author Harish Ingole

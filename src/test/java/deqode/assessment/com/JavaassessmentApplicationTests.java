@@ -1,10 +1,10 @@
-package deqode.springpractice.com;
+package deqode.assessment.com;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringpracticeApplicationTests {
+class JavaassessmentApplicationTests {
 
 	@Test
 	void contextLoads() {
